@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "matematica",
+        "cargahoraria": "04:00:00",
+        "professor": "Raul Seixas"
+    },
+    {
+        "id": 1,
+        "nome": "portugues",
+        "cargahoraria": "04:00:00",
+        "professor": "Lobao"
+    },
+    {
+        "id": 1,
+        "nome": "historia",
+        "cargahoraria": "02:00:00",
+        "professor": "Rita Lee"
+    },
+    {
+        "nome": "Ingles",
+        "cargahoraria": "03:00:00",
+        "professor": "Rihana",
+        "id": 2
+    }
+]

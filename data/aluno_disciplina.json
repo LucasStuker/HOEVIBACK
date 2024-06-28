@@ -1,0 +1,6 @@
+[
+    {"aluno_id": 1, "disciplina_id": 1},
+    {"aluno_id": 1, "disciplina_id": 2},
+    {"aluno_id": 2, "disciplina_id": 1},
+    {"aluno_id": 3, "disciplina_id": 3}
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Dinho ouro preto",
+        "email": "dinho@gmail.com",
+        "serie": "2"
+    },
+    {
+        "id": 2,
+        "nome": "Maria Betania",
+        "email": "maria@gmail.com",
+        "serie": "3"
+    },
+    {
+        "id": 3,
+        "nome": "Pedro Lucas",
+        "email": "Pelu@gmail.com",
+        "serie": "5"
+    },
+    {
+        "nome": "Renato Russo",
+        "email": "renato.russo@bol.com",
+        "serie": "8",
+        "id": 4
+    },
+    {
+        "nome": "Flausino",
+        "email": "flausino@gmail.com",
+        "serie": "5",
+        "id": 5
+    }
+]
